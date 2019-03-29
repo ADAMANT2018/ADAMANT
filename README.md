@@ -14,4 +14,4 @@
 * Install the ADAMANT testing plugins with the zip file in 'testing plugins' folder;
 * move the Android SDK and Ant to the root directory of ObeoDesigner.
 
-To skip the above steps, you can also unzip the zip file 'ObeoDesigner_for_IFML.zip', which is an Integration for E-IFML modeling and testing.
+To skip the above steps, you can also email us for the 'ObeoDesigner_for_IFML.zip', an Integration for E-IFML modeling and testing.
